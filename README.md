@@ -12,10 +12,9 @@ After you open Visual Studio you will need to create a
 ![new project](C:\Users\chino\Desktop\npvs.png). <br />
 
 Then you 
-![select Visual F# ](C:\Users\chino\Desktop\fvs.png) 
+select Visual F# 
 as your language, then 
-![select Console App.](C:\Users\chino\Desktop\fvs.png)
-(.Net Core).<br />
+select Console App.(.Net Core).<br />
 Name the project, in this case we will call it "Proyecto Final Metodos". <br />
 
 It will open in the file Program.fs, delete the contents of the file and paste the code in there.<br />
