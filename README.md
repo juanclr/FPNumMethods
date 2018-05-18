@@ -8,13 +8,9 @@ To run the Golden Search algorithm for F# you must have in your computer one of 
 
 The next step is to open your IDE, in this case we will work with Visual Studio. <br />
 
-After you open Visual Studio you will need to create a 
-![new project](C:\Users\chino\Desktop\npvs.png). <br />
+After you open Visual Studio you will need to create a new project. <br />
 
-Then you 
-select Visual F# 
-as your language, then 
-select Console App.(.Net Core).<br />
+Then you select Visual F# as your language, then select Console App.(.Net Core).<br />
 Name the project, in this case we will call it "Proyecto Final Metodos". <br />
 
 It will open in the file Program.fs, delete the contents of the file and paste the code in there.<br />
