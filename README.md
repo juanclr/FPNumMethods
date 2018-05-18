@@ -14,7 +14,7 @@ Then you select Visual F# as your language, then select Console App.(.Net Core).
 Name the project, in this case we will call it "Proyecto Final Metodos". <br />
 
 It will open in the file Program.fs, delete the contents of the file. <br /> 
-Download and open Program.fs from the repository copy the code and paste it in the Visual Studio file you created.<br />
+Download and open Program.fs from the repository copy the code and paste it in the empty Program.fs.<br />
 
 Press the green play button to Run the code.
 
